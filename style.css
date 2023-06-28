@@ -1,0 +1,48 @@
+.inline{
+    display: inline;
+}
+
+#topsection{
+    background: url(cat1.webp) center;
+    background-size: 100%;
+    color: white;
+}
+#meowcointitle{
+    padding-left:10px;
+    
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.meowcionblock{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.rowspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#launchbackground{
+    background-color: darkviolet;
+    padding-bottom: 10px;
+    
+}
+
+.hcolor{
+    color: white;
+}
+
+#backgroundcolor1{
+    background-color:black;
+}
+
+.textcolor1{
+    color: white;
+}
+
